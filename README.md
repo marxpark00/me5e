@@ -12,4 +12,4 @@ This system provides character sheet support for Actors and Items, mechanical su
 
 ## Community Contribution
 
-See the [CONTRIBUTING](/CONTRIBUTING.md) file for information about how you can help this project.
+
