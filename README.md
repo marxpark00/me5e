@@ -1,4 +1,4 @@
-![](https://github.com/marxpark00/me5e/edit/master/media/repo-me5e.png?raw=true)
+![](https://github.com/marxpark00/me5e/blob/master/media/repo-me5e.png?raw=true)
 
 # Foundry Virtual Tabletop - ME5e Game System
 
